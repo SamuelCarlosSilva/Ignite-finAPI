@@ -1,6 +1,11 @@
+🚀Project built during the Ignite Bootcamp - Rocketseat
+
 ## FinAPI - Financeira
 
+
+
 ### Requisitos
+
   [x] Deve ser possível criar uma conta
   [x] Deve ser possível buscar o extrato bancário do cliente
   [x] Deve ser possível realizar um depósito
@@ -13,6 +18,7 @@
 
 
 ### Regras de negócio
+
   [x] Não deve ser possível cadastrar uma conta com CPF já exístente
   [x] Não deve ser possível buscar extrato em uma conta não exístente
   [x] Não deve ser possível fazer depósito em uma conta não exístente
